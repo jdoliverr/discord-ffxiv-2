@@ -8,6 +8,7 @@ Healers
 **!WHM** - White mage build
 **!AST** - Astro build
 **!SCH** - Scholar build
+**!SGE** - Sage build
 Tanks
 **!WAR** - Warrior build
 **!DRK** - Dark knight build
@@ -26,6 +27,11 @@ DPS
 **!SAM** - Samurai build
 **!DRG** - Dragoon build
 **!MNK** - Monk build
+**!RPR** - Reaper build
+-Crafter
+**!DOH** - Crafter melds
+-Gatherer
+**!DOL** - Gatherer melds
         `);} else {
             message.channel.send(`Hello ${member.user.tag}`)
         }
