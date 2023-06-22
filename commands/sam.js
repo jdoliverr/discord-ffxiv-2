@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 
 exports.run = async (bot, message, args) => {
         let member = message.mentions.members.first();
-        if(!member) {message.channel.send('2.15: https://etro.gg/gearset/4356046d-2f05-432a-a98c-632f11098ade \n2.08: https://etro.gg/gearset/56e084de-6194-45a5-8af7-6834f902f791 \n2.00: https://etro.gg/gearset/c7601428-cf57-456b-a2ed-321fd2c25ff7');} else {
+        if(!member) {message.channel.send('2.08: https://etro.gg/gearset/b25e8d82-3dcc-4656-aa62-07dce32f2976 \n2.00: https://etro.gg/gearset/b0db96d2-564d-4850-971e-54a4436d63bd');} else {
             message.channel.send(`Hello ${member.user.tag}`)
         }
 };

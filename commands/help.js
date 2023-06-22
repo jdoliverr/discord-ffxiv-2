@@ -32,6 +32,8 @@ DPS
 **!DOH** - Crafter melds
 -Gatherer
 **!DOL** - Gatherer melds
+
+The Balance Discord - https://discord.gg/thebalanceffxiv
         `);} else {
             message.channel.send(`Hello ${member.user.tag}`)
         }
