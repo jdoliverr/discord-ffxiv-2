@@ -8,5 +8,5 @@ exports.run = async (bot, message, args) => {
 };
 
 exports.help = {
-    name: 'hello'
+    name: 'test'
 };

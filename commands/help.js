@@ -5,29 +5,29 @@ exports.run = async (bot, message, args) => {
         if(!member) {message.channel.send(`
         Commands-
 Healers
-**!WHM** - White mage build
-**!AST** - Astro build
-**!SCH** - Scholar build
-**!SGE** - Sage build
+**!WHM** - White mage 
+**!AST** - Astro 
+**!SCH** - Scholar 
+**!SGE** - Sage 
 Tanks
-**!WAR** - Warrior build
-**!DRK** - Dark knight build
-**!GNB** - Gunbreaker build
+**!WAR** - Warrior 
+**!DRK** - Dark knight 
+**!GNB** - Gunbreaker 
 DPS
 -Magical
-**!BLM** - Black Mage build
-**!SMN** - Summoner build
-**!RDM** - Red Mage build
+**!BLM** - Black Mage 
+**!SMN** - Summoner 
+**!RDM** - Red Mage 
 -Physical
-**!DNC** - Dancer build
-**!MCH** - Machinist build
-**!BRD** - Bard build
+**!DNC** - Dancer 
+**!MCH** - Machinist 
+**!BRD** - Bard 
 -Melee
-**!NIN** - Ninja build
-**!SAM** - Samurai build
-**!DRG** - Dragoon build
-**!MNK** - Monk build
-**!RPR** - Reaper build
+**!NIN** - Ninja 
+**!SAM** - Samurai 
+**!DRG** - Dragoon 
+**!MNK** - Monk 
+**!RPR** - Reaper 
 -Crafter
 **!DOH** - Crafter melds
 -Gatherer
