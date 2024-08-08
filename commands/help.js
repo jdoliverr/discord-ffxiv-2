@@ -20,6 +20,7 @@ DPS
 **!BLM** - Black Mage 
 **!SMN** - Summoner 
 **!RDM** - Red Mage 
+**!PCT** - Pictomancer 
 -Physical
 **!DNC** - Dancer 
 **!MCH** - Machinist 
