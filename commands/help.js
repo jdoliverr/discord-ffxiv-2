@@ -31,6 +31,7 @@ DPS
 **!DRG** - Dragoon 
 **!MNK** - Monk 
 **!RPR** - Reaper 
+**!VPR** - Viper
 -Crafter
 **!DOH** - Crafter melds
 -Gatherer
